@@ -182,6 +182,9 @@ body {
   text-transform: uppercase;
   margin-bottom: 11px;
 }
+.header__name span {
+  display: block;
+}
 .header__description {
   font-size: 1.125rem;
   font-family: var(--secondary-font);
@@ -254,8 +257,8 @@ body {
   border: solid 4px rgb(255, 255, 255);
   border-radius: 50%;
   position: absolute;
-  width: 29px;
-  height: 29px;
+  width: 36px;
+  height: 36px;
   position: absolute;
   bottom: 0;
   right: 0;
